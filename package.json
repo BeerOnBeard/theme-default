@@ -1,6 +1,6 @@
 {
-  "name": "gitbook-plugin-theme-default",
-  "description": "Default theme for GitBook",
+  "name": "gitbook-plugin-theme-testing-custom",
+  "description": "Testing a custom theme for GitBook",
   "main": "./index.js",
   "version": "1.0.7",
   "engines": {
@@ -25,13 +25,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/GitbookIO/theme-default.git"
+    "url": "https://github.com/BeerOnBeard/theme-testing-custom.git"
   },
-  "author": "FriendCode Inc. <contact@gitbook.com>",
+  "author": "BeerOnBeard",
   "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/GitbookIO/theme-default/issues"
-  },
   "contributors": [
     {
       "name": "Samy Pessé",
